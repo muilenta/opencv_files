@@ -45,6 +45,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_sobel_transform", "17_so
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_scharr_transform", "18_scharr_transform\18_scharr_transform.vcxproj", "{F0310DBF-0B19-4C79-940C-EAFC483302FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08a_erode_using_slider", "08a_erode_using_slider\08a_erode_using_slider.vcxproj", "{A9FF2675-9A37-4ADD-9CA6-6FD21F977962}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08b_dilate_using_slider", "08b_dilate_using_slider\08b_dilate_using_slider.vcxproj", "{C669BE0C-F907-4981-96AF-1C81B64DBB73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -135,6 +139,14 @@ Global
 		{F0310DBF-0B19-4C79-940C-EAFC483302FC}.Debug|x64.Build.0 = Debug|x64
 		{F0310DBF-0B19-4C79-940C-EAFC483302FC}.Release|x64.ActiveCfg = Release|x64
 		{F0310DBF-0B19-4C79-940C-EAFC483302FC}.Release|x64.Build.0 = Release|x64
+		{A9FF2675-9A37-4ADD-9CA6-6FD21F977962}.Debug|x64.ActiveCfg = Debug|x64
+		{A9FF2675-9A37-4ADD-9CA6-6FD21F977962}.Debug|x64.Build.0 = Debug|x64
+		{A9FF2675-9A37-4ADD-9CA6-6FD21F977962}.Release|x64.ActiveCfg = Release|x64
+		{A9FF2675-9A37-4ADD-9CA6-6FD21F977962}.Release|x64.Build.0 = Release|x64
+		{C669BE0C-F907-4981-96AF-1C81B64DBB73}.Debug|x64.ActiveCfg = Debug|x64
+		{C669BE0C-F907-4981-96AF-1C81B64DBB73}.Debug|x64.Build.0 = Debug|x64
+		{C669BE0C-F907-4981-96AF-1C81B64DBB73}.Release|x64.ActiveCfg = Release|x64
+		{C669BE0C-F907-4981-96AF-1C81B64DBB73}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
