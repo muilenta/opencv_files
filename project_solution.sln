@@ -63,6 +63,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_shape_detection", "24_sh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16a_hough_lines_with_video", "16a_hough_lines_with_video\16a_hough_lines_with_video.vcxproj", "{900CEF82-7A2A-46F7-AF78-74ACAA2A5096}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27_face_detection", "27_face_detection\27_face_detection.vcxproj", "{1206C688-1516-4FB1-9510-5BFF26FEA11E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_face_detect_superimpose_mask", "28_face_detect_superimpose_mask\28_face_detect_superimpose_mask.vcxproj", "{50614D7C-3E7B-4E20-977E-0D911AE63E25}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_corner_detection", "25_corner_detection\25_corner_detection.vcxproj", "{D77AAAC3-57AD-4111-9286-43BB9FCF7A56}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_morph_selector", "26_morph_selector\26_morph_selector.vcxproj", "{A1AB6622-17F3-4D62-8A88-479666CBFC64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -189,6 +197,22 @@ Global
 		{900CEF82-7A2A-46F7-AF78-74ACAA2A5096}.Debug|x64.Build.0 = Debug|x64
 		{900CEF82-7A2A-46F7-AF78-74ACAA2A5096}.Release|x64.ActiveCfg = Release|x64
 		{900CEF82-7A2A-46F7-AF78-74ACAA2A5096}.Release|x64.Build.0 = Release|x64
+		{1206C688-1516-4FB1-9510-5BFF26FEA11E}.Debug|x64.ActiveCfg = Debug|x64
+		{1206C688-1516-4FB1-9510-5BFF26FEA11E}.Debug|x64.Build.0 = Debug|x64
+		{1206C688-1516-4FB1-9510-5BFF26FEA11E}.Release|x64.ActiveCfg = Release|x64
+		{1206C688-1516-4FB1-9510-5BFF26FEA11E}.Release|x64.Build.0 = Release|x64
+		{50614D7C-3E7B-4E20-977E-0D911AE63E25}.Debug|x64.ActiveCfg = Debug|x64
+		{50614D7C-3E7B-4E20-977E-0D911AE63E25}.Debug|x64.Build.0 = Debug|x64
+		{50614D7C-3E7B-4E20-977E-0D911AE63E25}.Release|x64.ActiveCfg = Release|x64
+		{50614D7C-3E7B-4E20-977E-0D911AE63E25}.Release|x64.Build.0 = Release|x64
+		{D77AAAC3-57AD-4111-9286-43BB9FCF7A56}.Debug|x64.ActiveCfg = Debug|x64
+		{D77AAAC3-57AD-4111-9286-43BB9FCF7A56}.Debug|x64.Build.0 = Debug|x64
+		{D77AAAC3-57AD-4111-9286-43BB9FCF7A56}.Release|x64.ActiveCfg = Release|x64
+		{D77AAAC3-57AD-4111-9286-43BB9FCF7A56}.Release|x64.Build.0 = Release|x64
+		{A1AB6622-17F3-4D62-8A88-479666CBFC64}.Debug|x64.ActiveCfg = Debug|x64
+		{A1AB6622-17F3-4D62-8A88-479666CBFC64}.Debug|x64.Build.0 = Debug|x64
+		{A1AB6622-17F3-4D62-8A88-479666CBFC64}.Release|x64.ActiveCfg = Release|x64
+		{A1AB6622-17F3-4D62-8A88-479666CBFC64}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
