@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08a_erode_using_slider", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08b_dilate_using_slider", "08b_dilate_using_slider\08b_dilate_using_slider.vcxproj", "{C669BE0C-F907-4981-96AF-1C81B64DBB73}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_track_red_and_paint", "19_track_red_and_paint\19_track_red_and_paint.vcxproj", "{34A1FE60-7A28-4804-8E63-6765B30C7675}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -147,6 +149,10 @@ Global
 		{C669BE0C-F907-4981-96AF-1C81B64DBB73}.Debug|x64.Build.0 = Debug|x64
 		{C669BE0C-F907-4981-96AF-1C81B64DBB73}.Release|x64.ActiveCfg = Release|x64
 		{C669BE0C-F907-4981-96AF-1C81B64DBB73}.Release|x64.Build.0 = Release|x64
+		{34A1FE60-7A28-4804-8E63-6765B30C7675}.Debug|x64.ActiveCfg = Debug|x64
+		{34A1FE60-7A28-4804-8E63-6765B30C7675}.Debug|x64.Build.0 = Debug|x64
+		{34A1FE60-7A28-4804-8E63-6765B30C7675}.Release|x64.ActiveCfg = Release|x64
+		{34A1FE60-7A28-4804-8E63-6765B30C7675}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
