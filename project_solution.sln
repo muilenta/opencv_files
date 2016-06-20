@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_corner_detection", "25_c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_morph_selector", "26_morph_selector\26_morph_selector.vcxproj", "{A1AB6622-17F3-4D62-8A88-479666CBFC64}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15a_shrink_crop_save", "15a_shrink_crop_save\15a_shrink_crop_save.vcxproj", "{3E958B09-5F3F-4CEB-B5F4-4B7D22BA3BE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -213,6 +215,10 @@ Global
 		{A1AB6622-17F3-4D62-8A88-479666CBFC64}.Debug|x64.Build.0 = Debug|x64
 		{A1AB6622-17F3-4D62-8A88-479666CBFC64}.Release|x64.ActiveCfg = Release|x64
 		{A1AB6622-17F3-4D62-8A88-479666CBFC64}.Release|x64.Build.0 = Release|x64
+		{3E958B09-5F3F-4CEB-B5F4-4B7D22BA3BE7}.Debug|x64.ActiveCfg = Debug|x64
+		{3E958B09-5F3F-4CEB-B5F4-4B7D22BA3BE7}.Debug|x64.Build.0 = Debug|x64
+		{3E958B09-5F3F-4CEB-B5F4-4B7D22BA3BE7}.Release|x64.ActiveCfg = Release|x64
+		{3E958B09-5F3F-4CEB-B5F4-4B7D22BA3BE7}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
